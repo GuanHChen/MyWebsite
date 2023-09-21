@@ -2,12 +2,13 @@ project:
   type: website
 
 website:
-  title: "MySexyWebsite"
+  title: "Guan Chen"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - league.qmd
 
 format:
   html:

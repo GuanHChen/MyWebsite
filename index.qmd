@@ -1,19 +1,26 @@
 ---
-title: "MySexyWebsite"
+title: "My Website"
 ---
 
-This is a Quarto website.
+::::: grid 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: g-col-4
+
+![](images/Guan Chen (2).jpg){fig-align="left" width="219"}
+
+:::
+
+::: g-col-8
+
+Hello! My name is Guan Chen, and I am a research scientist. I graduated from the University of Texas at Dallas with a B.S. in biochemistry and currently work in the Palmer lab where I specialize in membrane biology and bacterial genetics. Through my projects, I have garnered an interest in data science and work to further my analytical skills.
+
+:::
+
+:::::
 
 ```{r}
-
-
-
+#Here is evidence of me using R
 1 + 1
 ```
 
-``` R
-# This is some code
-mom <- "mom"
-```
+Information you may or may not need about me is that I am a competitive League of Legends player, peaking Masters in season 13 split 1. I am by all accounts a mechanical keyboard enthusiast who has invested probably too much time and money into that hobby. And I am always looking to expand my Lego® collection.

@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Work"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+My largest project as a lab technician in the Palmer lab is the glycolipid anchors project in *Streptococcus.*
